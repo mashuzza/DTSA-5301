@@ -12,7 +12,7 @@ output:
 ### Required Packages
 
 This analysis requires several R packages to be installed and loaded for proper execution. Before running the code, please ensure the following packages are installed on your system:
-`tidyverse`, `ggplot2`, `knitr`, `foercast`.
+`tidyverse`, `ggplot2`, `knitr`, `forecast`.
 
 To check whether a package is installed, you can use the `require() function`. If the package is not installed, `require()` will return `FALSE`. You can then install the missing package using the `install.packages()` function.
 
